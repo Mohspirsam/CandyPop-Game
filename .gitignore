@@ -1,3 +1,5 @@
 # local backup files created during asset replacements — not part of the site
 *.bak
 *.bak2
+
+.vercel
